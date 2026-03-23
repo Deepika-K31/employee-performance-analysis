@@ -2,7 +2,7 @@
 
 A data analysis project using Python (Pandas, NumPy, Matplotlib, Seaborn) to explore and visualize employee performance data.
 
-Objectives:
+## Objectives:
 
 Explore and understand the employee dataset,
 
@@ -12,7 +12,7 @@ Analyze department-wise and gender-wise distributions,
 
 Visualize key trends and patterns
 
-Visualizations:
+## Visualizations:
 
 Bar chart - Employees per department
 
@@ -24,7 +24,7 @@ Histogram - Salary distribution
 
 Heatmap - Correlation between numerical features
 
-Key Findings:
+## Key Findings:
 
 Marketing has the highest number of employees,
 
@@ -36,7 +36,7 @@ The highest-paid employee belongs to the Operations department,
 
 Top performers are spread across multiple departments
 
-Technologies Used:
+## Technologies Used:
 
 Python 3,
 Pandas,
