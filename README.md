@@ -4,13 +4,13 @@ A data analysis project using Python (Pandas, NumPy, Matplotlib, Seaborn) to exp
 
 ## Objectives:
 
-Explore and understand the employee dataset,
+- Explore and understand the employee dataset,
 
-Identify top performers and highest earners,
+- Identify top performers and highest earners,
 
-Analyze department-wise and gender-wise distributions,
+- Analyze department-wise and gender-wise distributions,
 
-Visualize key trends and patterns
+- Visualize key trends and patterns
 
 ## Visualizations:
 
